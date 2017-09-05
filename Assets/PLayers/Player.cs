@@ -27,4 +27,10 @@ public class Player : NetworkBehaviour {
         Debug.Log(inputValue.x +  " " + inputValue.z);
         transform.Translate(inputValue);
     }
+
+    public override void OnStartLocalPlayer()
+    {
+        GetComponentInChildren<Camera>().enabled = true;
+    }
 }
+

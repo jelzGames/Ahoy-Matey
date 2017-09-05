@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{4B34BBE8-3A2F-29F9-3BE0-5FB67302AD7A}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PLayers/Player.cs">
+    <Files>
+      <File FileName="Assets/PLayers/Player.cs" Line="31" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
